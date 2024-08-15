@@ -1,0 +1,52 @@
+# Byte-compiled Python files
+*.py[cod]
+
+# Log files
+*.log
+
+# Virtual environment files
+.venv/
+env/
+venv/
+virtualenv/
+
+# Data files
+data/
+*.csv
+*.json
+*.pkl
+*.npy
+*.h5
+
+# Model files
+models/
+*.pth
+*.pt
+*.ckpt
+
+# Cache files
+__pycache__/
+.cache/
+
+# IDE files
+.vscode/
+.pycharm/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+*.zip
+*.tar.gz
+*.tar.bz2
+*.pdf
+*.docx
+*.pptx
+*.xlsx
